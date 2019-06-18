@@ -1,0 +1,6 @@
+test.py
+venv
+*.sqlite
+out.py
+__pycache__
+*.zip
